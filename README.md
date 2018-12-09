@@ -7,4 +7,5 @@ Abstract: Many symbolic computations and manipulations required in the analysis 
 - computing general forms of expressions by integration by parts,
 -  nding equivalent forms of an integral expression that are simpler or more symmetric form,
 - determining necessary and su cient conditions on the coe cients for the positivity of a given symbolic expression.
+
 Using this package, we can simplify integral identities,  nd conserved and dissipated quantities of time- dependent PDE or system of PDEs.
